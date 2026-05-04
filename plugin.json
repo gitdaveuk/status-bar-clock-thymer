@@ -1,0 +1,21 @@
+{
+	"ver": 1,
+	"name": "Status Bar Clock",
+	"icon": "clock",
+	"item_name": "Note",
+	"description": "Displays the current time in the status bar.",
+	"show_sidebar_items": false,
+	"show_cmdpal_items": false,
+	"views": [],
+	"fields": [],
+	"page_field_ids": [],
+	"sidebar_record_sort_field_id": "",
+	"sidebar_record_sort_dir": "desc",
+	"managed": {
+		"fields": false,
+		"views": false,
+		"sidebar": false
+	},
+	"custom": {},
+	"home": false
+}
